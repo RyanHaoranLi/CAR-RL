@@ -1,6 +1,6 @@
 # Consistent Adversarial Robust Reinforcement Learning
 
-This repository contains a reference implementation for Consistent Adversarial Robust Proximal Policy Optimization (CAR-PPO).  See our paper ["Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error"]() for more details. 
+This repository contains a reference implementation for Consistent Adversarial Robust Proximal Policy Optimization (CAR-PPO).  See our paper ["Towards Optimal Adversarial Robust Reinforcement Learning with Infinity Measurement Error"](https://arxiv.org/abs/2502.16734) for more details. 
 
 The reference implementation for Consistent Adversarial Robust Deep Q Networks (CAR-DQN) can be found at [RyanHaoranLi/CAR-DQN](https://github.com/RyanHaoranLi/CAR-DQN). See our paper ["Towards Optimal Adversarial Robust Q-learning with Bellman Infinity-error"](https://arxiv.org/abs/2402.02165) for more details. This paper has been accepted by [**ICML 2024**](https://proceedings.mlr.press/v235/li24cl.html) as an [**oral**](https://icml.cc/virtual/2024/oral/35463) presentation.
 
